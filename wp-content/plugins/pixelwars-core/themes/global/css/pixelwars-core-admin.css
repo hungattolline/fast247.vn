@@ -1,0 +1,18 @@
+
+
+.pixelwars-core-widget-preview-image {
+	display: block;
+	margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+	max-width: 100%;
+}
+
+
+body.post-type-portfolio .editor-post-format select option[value="aside"],
+body.post-type-portfolio .editor-post-format select option[value="chat"],
+body.post-type-portfolio .editor-post-format select option[value="quote"],
+body.post-type-portfolio .editor-post-format select option[value="status"] { 
+    display: none;
+}
+

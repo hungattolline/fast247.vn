@@ -1,0 +1,274 @@
+
+---Downloaded files---
+The import files for: Theme Demo were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://18.142.244.102
+Data file = /var/www/html/wp-content/themes/fast247_theme/admin/demo-data/01/content.xml
+Widget file = /var/www/html/wp-content/themes/fast247_theme/admin/demo-data/01/widgets.wie
+Customizer file = /var/www/html/wp-content/themes/fast247_theme/admin/demo-data/01/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video" (Media)
+
+
+---Importing widgets---
+Footer Copyright Text : 
+
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---ocdi/after_import---
+

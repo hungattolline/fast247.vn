@@ -1,0 +1,287 @@
+body.appearance_page_logistica-theme-options #wpbody-content > .update-nag {
+	display: none;
+}
+
+.wrap2 {
+	max-width: 800px;
+}
+
+.wrap2 .nav-tab {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.wrap2 .nav-tab-active:hover {
+	cursor: default;
+}
+
+.wrap2 table {
+	border-spacing: 0px;
+	width: 100%;
+}
+
+.wrap2 table table td + td {
+	width: 68%;
+}
+
+.wrap2 .option-left {
+	border-top: 1px solid #eeeeee;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	width: 450px;
+}
+
+.wrap2 .option-right {
+	font-size: 11px;
+	color: #aaaaaa;
+	border-top: 1px solid #eeeeee;
+	border-left: 1px solid #eeeeee;
+	padding-left: 20px;
+}
+
+.wrap2 table tr:first-child td {
+	border-top: 0px;
+}
+
+.wrap2 table tr:last-child td {
+	border-bottom: 0px;
+}
+
+.wrap2 input[type="text"] {
+	width: 100%;
+}
+
+.wrap2 select {
+	width: 100%;
+	height: auto;
+}
+
+.wrap2 textarea {
+	resize: vertical;
+	width: 100%;
+}
+
+.wrap2 .button-primary {
+	margin-top: 20px;
+}
+
+.wrap2 .status {
+	display: none;
+	position: fixed;
+	top: 44%;
+	left: 44%;
+	z-index: 999;
+	font-size: 20px;
+	color: #333333;
+	background-color: #FFEC8B;
+	border: 1px solid #FC0;
+	padding: 25px;
+	border-radius: 3px;
+	background-clip: padding-box;
+}
+
+.wrap2 .status-done {
+	background-color: #C3FF88;
+	border-color: #8DFF1C;
+}
+
+.wrap2 .status img {
+	margin-right: 10px;
+}
+
+
+/* ============================================================================= */
+
+
+.color {
+	margin-top: 3px !important;
+	margin-left: 10px !important;
+}
+
+
+/* ============================================================================= */
+
+
+#logistica_featured_video__new_tab,
+.logistica_featured_video__howto_post,
+.logistica_featured_video__howto_portfolio {
+	display: none;
+}
+
+body.post-type-post .logistica_featured_video__howto_post {
+	display: block;
+}
+
+body.post-type-portfolio #logistica_featured_video__new_tab,
+body.post-type-portfolio .logistica_featured_video__howto_portfolio {
+	display: block;
+}
+
+
+/* ============================================================================= */
+
+
+.logistica-widget-table {
+	margin-top: 15px;
+	margin-bottom: 15px;
+	width: 100%;
+}
+
+.logistica-widget-table-td-left {
+	vertical-align: top;
+	padding-top: 5px;
+}
+
+.logistica-widget-preview-image {
+	display: block;
+	margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+	max-width: 100%;
+}
+
+
+/* ============================================================================= */
+
+
+/* Help Tab */
+
+.logistica-admin-help-tab--social-media-links a {
+	display: inline-block;
+	color: inherit;
+	background-color: rgba(0, 0, 0, 0.1);
+	text-decoration: none;
+	border-radius: 50%;
+	padding: 5px;
+	margin-left: 0px;
+	margin-right: 10px;
+	transition: all 0.2s ease-out;
+}
+
+.logistica-admin-help-tab--social-media-links a:hover {
+	background-color: rgba(0, 0, 0, 0.2);
+}
+
+.logistica-admin-help-tab--social-media-links a:focus {
+	outline: none;
+	box-shadow: none;
+}
+
+
+/* ============================================================================= */
+
+
+/* Admin Notice */
+
+.logistica-admin-notice {
+	background-image: linear-gradient(135deg, red, orange, orange, orange, orange, red);
+	text-align: center;
+	border-radius: 24px;
+	padding: 20px;
+	margin-top: 15px !important;
+	margin-bottom: 30px !important;
+	background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+	border: 5px solid #111;
+}
+
+.logistica-admin-notice--title {
+	font-weight: 700 !important;
+	letter-spacing: -2px;
+	font-family: "Arial Black";
+	font-size: 36px !important;
+	margin: 0px !important;
+}
+
+.logistica-admin-notice a {
+	color: #734b51;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+	transition: all 0.2s ease-out;
+}
+
+.logistica-admin-notice a:hover {
+    border-bottom: 1px solid;
+}
+
+.logistica-admin-notice a:focus {
+	outline: none;
+	box-shadow: none;
+}
+
+.logistica-admin-notice--column {
+	display: inline-block;
+	vertical-align: text-top;
+	text-align: left;
+	padding-right: 5%;
+	max-width: 265px;
+}
+
+.logistica-admin-notice--column:last-of-type {
+	padding-right: 0px;
+}
+
+.logistica-admin-notice--social-media-links a {
+	display: inline-block;
+	background-color: rgb(255 255 255);
+	text-shadow: none;
+	border-bottom: none;
+	border-radius: 50%;
+	padding: 11px;
+	margin-right: 6px;
+}
+
+.logistica-admin-notice--social-media-links a:hover {
+	background-color: #c08e74;
+	color: #333;
+	border-bottom: none;
+}
+
+a.logistica-admin-notice--button {
+    display: inline-block;
+    color: #000000;
+	background-color: #ffffff;
+    text-shadow: none;
+    /* box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3); */
+	border-bottom: none;
+    border-radius: 35px;
+    padding: 18px 34px;
+	/* padding-bottom: 10px; */
+    /* padding-left: 22px; */
+    /* padding-right: 22px; */
+	margin-right: 10px;
+}
+
+a.logistica-admin-notice--button:hover {
+	background-color: #3f3f3f;
+    border-bottom: none;
+	color: #fff;
+}
+
+a.logistica-admin-notice--button:focus {
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+}
+
+a.logistica-admin-notice--button-primary {
+    color: #ffffff;
+	background-color: #c18e74;
+}
+
+a.logistica-admin-notice--button-primary:hover {
+    background-color: #6d5243;
+}
+
+/* Admin Notice */
+
+
+/* ============================================================================= */
+
+
+/* Plugin: "MC4WP Mailchimp for WordPress" */
+
+.mc4wp-is-dismissible,
+.ocdi .notice.mc4wp-is-dismissible {
+	display: none !important;
+}
+
+/* Plugin: "MC4WP Mailchimp for WordPress" */
+

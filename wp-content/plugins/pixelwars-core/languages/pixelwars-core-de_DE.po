@@ -1,0 +1,2406 @@
+# Loco Gettext template
+msgid ""
+msgstr ""
+"Project-Id-Version: Pixelwars Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-26 23:53+0000\n"
+"POT-Revision-Date: Thu Aug 09 2018 21:22:11 GMT+0300 (GMT+03:00)\n"
+"PO-Revision-Date: 2022-12-07 22:24+0000\n"
+"Last-Translator: Mehmet Sali\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4"
+
+#: themes/life/meta-box-featured-media.php:19
+msgid "(for Link format)"
+msgstr ""
+
+#: themes/life/widget-about-me.php:8
+msgid "(Life) About Me"
+msgstr ""
+
+#: themes/life/widget-intro.php:8
+msgid "(Life) Intro"
+msgstr ""
+
+#: themes/life/widget-link-box.php:8
+msgid "(Life) Link Box"
+msgstr ""
+
+#: themes/life/widget-main-slider.php:8
+msgid "(Life) Main Slider"
+msgstr ""
+
+#: themes/life/widget-social-media-feed.php:8
+msgid "(Life) Social Media Feed"
+msgstr ""
+
+#: themes/life/widget-social-media-icon.php:8
+msgid "(Life) Social Media Icon"
+msgstr ""
+
+#: themes/global/widget-intro.php:64
+msgid "(MP4 video.)"
+msgstr ""
+
+#: themes/global/widget-about-me.php:9
+msgid "(Pixelwars) About Me"
+msgstr ""
+
+#: themes/global/widget-animated-search.php:9
+msgid "(Pixelwars) Animated Search"
+msgstr ""
+
+#: themes/global/widget-button.php:9 themes/global-vcard/widget-button.php:9
+msgid "(Pixelwars) Button"
+msgstr ""
+
+#: themes/global-vcard/widget-client.php:9
+msgid "(Pixelwars) Client"
+msgstr ""
+
+#: themes/global-vcard/widget-contact-form.php:9
+msgid "(Pixelwars) Contact Form"
+msgstr ""
+
+#: themes/global-vcard/widget-fun-fact.php:9
+msgid "(Pixelwars) Fun Fact"
+msgstr ""
+
+#: themes/ikonik/widget-homepage-menu-item.php:9
+#: themes/unrovr/widget-homepage-menu-item.php:9
+msgid "(Pixelwars) Homepage Menu Item"
+msgstr ""
+
+#: themes/global/widget-icon-box.php:9
+msgid "(Pixelwars) Icon Box"
+msgstr ""
+
+#: themes/global/widget-intro.php:9
+msgid "(Pixelwars) Intro"
+msgstr ""
+
+#: themes/global/widget-link-box.php:9
+msgid "(Pixelwars) Link Box"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:9
+#: themes/efor/widget-main-slider.php:9 themes/episody/widget-main-slider.php:9
+#: themes/foodsy/widget-main-slider.php:9
+#: themes/lahanna/widget-main-slider.php:9
+msgid "(Pixelwars) Main Slider"
+msgstr ""
+
+#: themes/unrovr/widget-map.php:9
+msgid "(Pixelwars) Map"
+msgstr ""
+
+#: themes/global-vcard/widget-process.php:9
+msgid "(Pixelwars) Process"
+msgstr ""
+
+#: themes/global-vcard/widget-progress-bar.php:9
+msgid "(Pixelwars) Progress Bar"
+msgstr ""
+
+#: themes/global-vcard/widget-section-title.php:9
+msgid "(Pixelwars) Section Title"
+msgstr ""
+
+#: themes/global-vcard/widget-service.php:9
+msgid "(Pixelwars) Service"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:9
+#: themes/global-vcard/widget-social-media-icon.php:9
+msgid "(Pixelwars) Social Media Icon"
+msgstr ""
+
+#: themes/ikonik/widget-testimonial.php:9
+#: themes/unrovr/widget-testimonial.php:9
+msgid "(Pixelwars) Testimonial"
+msgstr ""
+
+#: themes/global-vcard/widget-timeline-event.php:9
+msgid "(Pixelwars) Timeline Event"
+msgstr ""
+
+#: themes/global-vcard/widget-timeline-title.php:9
+msgid "(Pixelwars) Timeline Title"
+msgstr ""
+
+#: themes/global/widget-intro.php:58
+msgid "(YouTube, Vimeo embed code.)"
+msgstr ""
+
+#: themes/global/widget-intro.php:69
+msgid "(YouTube, Vimeo page url.)"
+msgstr ""
+
+#: themes/global/meta-box-sidebar.php:87
+msgid ""
+"- Also you can create new sidebars from Appearance > Theme Options > Widget "
+"Areas."
+msgstr ""
+
+#: themes/life/meta-box-featured-media.php:47
+msgid ""
+"- Audio: Use browser address url of an audio from SoundCloud. This audio "
+"will be shown in a lightbox in your portfolio page."
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:65
+msgid "- Classic style applies if there is no featured media."
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:69
+msgid ""
+"- Image Left and Image Right layouts display as classic style when featured "
+"video is present."
+msgstr ""
+
+#: themes/life/meta-box-featured-media.php:42
+msgid "- Link: Enter your custom url."
+msgstr ""
+
+#: themes/global/meta-box-sidebar.php:82
+msgid ""
+"- Sidebar is a widget area. You can find all available sidebars in your "
+"Widgets page under Appearance menu and Widgets section in Customizer."
+msgstr ""
+
+#: themes/life/meta-box-featured-media.php:52
+msgid ""
+"- Video: Use browser address url of a video from YouTube or Vimeo. This "
+"video will be shown in a lightbox in your portfolio page."
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:75
+#: themes/efor/widget-main-slider.php:75
+#: themes/episody/widget-main-slider.php:75
+#: themes/foodsy/widget-main-slider.php:75
+#: themes/lahanna/widget-main-slider.php:75
+#: themes/life/widget-main-slider.php:51
+msgid "1"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:91
+#: themes/efor/widget-main-slider.php:91
+#: themes/episody/widget-main-slider.php:91
+#: themes/foodsy/widget-main-slider.php:91 themes/global/widget-link-box.php:62
+#: themes/lahanna/widget-main-slider.php:91 themes/life/widget-link-box.php:56
+#: themes/life/widget-main-slider.php:64
+msgid "100%"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:76
+#: themes/efor/widget-main-slider.php:76
+#: themes/episody/widget-main-slider.php:76
+#: themes/foodsy/widget-main-slider.php:76
+#: themes/lahanna/widget-main-slider.php:76
+#: themes/life/widget-main-slider.php:52
+msgid "2"
+msgstr ""
+
+#: themes/global/widget-link-box.php:59 themes/life/widget-link-box.php:53
+msgid "25%"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:77
+#: themes/efor/widget-main-slider.php:77
+#: themes/episody/widget-main-slider.php:77
+#: themes/foodsy/widget-main-slider.php:77
+#: themes/lahanna/widget-main-slider.php:77
+#: themes/life/widget-main-slider.php:53
+msgid "3"
+msgstr ""
+
+#: themes/global/widget-link-box.php:60 themes/life/widget-link-box.php:54
+msgid "33%"
+msgstr ""
+
+#: themes/global/widget-button.php:60
+msgid "3D"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:78
+#: themes/efor/widget-main-slider.php:78
+#: themes/episody/widget-main-slider.php:78
+#: themes/foodsy/widget-main-slider.php:78
+#: themes/lahanna/widget-main-slider.php:78
+#: themes/life/widget-main-slider.php:54
+msgid "4"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:79
+#: themes/efor/widget-main-slider.php:79
+#: themes/episody/widget-main-slider.php:79
+#: themes/foodsy/widget-main-slider.php:79
+#: themes/lahanna/widget-main-slider.php:79
+#: themes/life/widget-main-slider.php:55
+msgid "5"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:89
+#: themes/efor/widget-main-slider.php:89
+#: themes/episody/widget-main-slider.php:89
+#: themes/foodsy/widget-main-slider.php:89 themes/global/widget-link-box.php:61
+#: themes/lahanna/widget-main-slider.php:89 themes/life/widget-link-box.php:55
+#: themes/life/widget-main-slider.php:62
+msgid "50%"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:46
+#: themes/global-vcard/widget-social-media-icon.php:37
+msgid "500px"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:90
+#: themes/efor/widget-main-slider.php:90
+#: themes/episody/widget-main-slider.php:90
+#: themes/foodsy/widget-main-slider.php:90
+#: themes/lahanna/widget-main-slider.php:90
+#: themes/life/widget-main-slider.php:63
+msgid "75%"
+msgstr ""
+
+#: themes/unrovr/widget-map.php:73
+msgid "A marker image for your location."
+msgstr ""
+
+#: themes/global/widget-about-me.php:11 themes/life/widget-about-me.php:9
+msgid "About me widget."
+msgstr ""
+
+#: themes/global/meta-box-gallery-type.php:26
+msgid ""
+"Add \"Classic\" block to your block editor. Use \"Add Media\" button of the "
+"Classic block to create a gallery."
+msgstr ""
+
+#: themes/ikonik/widget-homepage-menu-item.php:11
+#: themes/unrovr/widget-homepage-menu-item.php:11
+msgid "Add a menu item to the \"Homepage Navigation Menu\" widget area."
+msgstr ""
+
+#: themes/global-vcard/widget-social-media-icon.php:11
+msgid "Add a social media icon to the \"Social Media Icons\" widget area."
+msgstr ""
+
+#: themes/global/meta-box-featured-area.php:57
+msgid ""
+"Add Main Slider, Link Box or Intro widgets to your featured area. You can "
+"add many widgets to a featured area."
+msgstr ""
+
+#. Description of the plugin
+msgid "Advanced features for Pixelwars themes."
+msgstr ""
+
+#: themes/ikonik/widget-homepage-menu-item.php:58
+msgid "AJAX"
+msgstr ""
+
+#: themes/global-vcard/widget-section-title.php:28
+msgid "Align"
+msgstr ""
+
+#: themes/global/post-type-portfolio-2.php:76
+#: themes/global/post-type-portfolio.php:76
+#: themes/ikonik/post-type-portfolio.php:78
+#: themes/ucard/post-type-portfolio.php:57
+#: themes/unrovr/post-type-portfolio.php:76
+msgid "All"
+msgstr ""
+
+#: themes/global/post-type-portfolio-2.php:20
+#: themes/global/post-type-portfolio.php:20
+msgid "All Portfolio Posts"
+msgstr ""
+
+#: themes/global/widget-animated-search.php:11
+msgid "Animated search module."
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:112
+#: themes/efor/widget-main-slider.php:112
+#: themes/episody/widget-main-slider.php:112
+#: themes/foodsy/widget-main-slider.php:112
+#: themes/lahanna/widget-main-slider.php:112
+#: themes/life/widget-main-slider.php:78
+msgid "Animation"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:171
+#: themes/efor/widget-main-slider.php:171
+#: themes/episody/widget-main-slider.php:171
+#: themes/foodsy/widget-main-slider.php:171
+#: themes/lahanna/widget-main-slider.php:171
+msgid "Animation Duration"
+msgstr ""
+
+#: themes/ikonik/widget-homepage-menu-item.php:58
+msgid "Asynchronous JavaScript and XML"
+msgstr ""
+
+#: themes/global/meta-box-featured-media.php:53
+#: themes/life/meta-box-featured-media.php:26
+msgid ""
+"Audio: Just paste the browser address url of an audio from SoundCloud. This "
+"audio will be shown in place of featured image."
+msgstr ""
+
+#: themes/global/meta-box-featured-media.php:44
+#: themes/global-vcard/meta-box-featured-media.php:42
+msgid ""
+"Audio: Use browser address url of an audio from SoundCloud. This audio will "
+"be shown in a lightbox in your portfolio page."
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:213
+#: themes/efor/widget-main-slider.php:213
+#: themes/episody/widget-main-slider.php:213
+#: themes/foodsy/widget-main-slider.php:213
+#: themes/lahanna/widget-main-slider.php:213
+#: themes/life/widget-main-slider.php:113
+msgid "Autoplay"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:224
+#: themes/efor/widget-main-slider.php:224
+#: themes/episody/widget-main-slider.php:224
+#: themes/foodsy/widget-main-slider.php:224
+#: themes/lahanna/widget-main-slider.php:224
+#: themes/life/widget-main-slider.php:121
+msgid "Autoplay Timeout"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:118
+#: themes/efor/widget-main-slider.php:118
+#: themes/episody/widget-main-slider.php:118
+#: themes/foodsy/widget-main-slider.php:118
+#: themes/lahanna/widget-main-slider.php:118
+#: themes/life/widget-main-slider.php:83
+msgid "Back Slide"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:277
+#: themes/efor/widget-main-slider.php:277
+#: themes/episody/widget-main-slider.php:277
+#: themes/foodsy/widget-main-slider.php:277
+#: themes/lahanna/widget-main-slider.php:277
+msgid "Background"
+msgstr ""
+
+#: themes/global/widget-intro.php:56 themes/life/widget-intro.php:52
+msgid "Background Embed Video"
+msgstr ""
+
+#: themes/global/widget-intro.php:46 themes/life/widget-intro.php:42
+msgid "Background Image"
+msgstr ""
+
+#: themes/global/widget-intro.php:67 themes/life/widget-intro.php:65
+msgid "Background Parallax Video"
+msgstr ""
+
+#: themes/global/widget-intro.php:61 themes/life/widget-intro.php:58
+msgid "Background Self-Hosted Video"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:47
+#: themes/global-vcard/widget-social-media-icon.php:38
+msgid "Behance"
+msgstr ""
+
+#: themes/global/widget-button.php:76 themes/global-vcard/widget-button.php:46
+msgid "Big"
+msgstr ""
+
+#: themes/global/meta-box-featured-area.php:21
+msgid "Blog Featured Area"
+msgstr ""
+
+#: themes/global/meta-box-sidebar.php:33
+msgid "Blog Sidebar"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:58
+#: themes/global-vcard/widget-social-media-icon.php:49
+msgid "Blogger"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:70
+msgid "Bloglovin"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:160
+#: themes/efor/widget-main-slider.php:160
+#: themes/episody/widget-main-slider.php:160
+#: themes/foodsy/widget-main-slider.php:160
+#: themes/lahanna/widget-main-slider.php:160
+msgid "Blur"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:162
+#: themes/efor/widget-main-slider.php:162
+#: themes/episody/widget-main-slider.php:162
+#: themes/foodsy/widget-main-slider.php:162
+#: themes/lahanna/widget-main-slider.php:162
+msgid "Blur Scale"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:163
+#: themes/efor/widget-main-slider.php:163
+#: themes/episody/widget-main-slider.php:163
+#: themes/foodsy/widget-main-slider.php:163
+#: themes/lahanna/widget-main-slider.php:163
+msgid "Blur Stack Scale"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:164
+#: themes/efor/widget-main-slider.php:164
+#: themes/episody/widget-main-slider.php:164
+#: themes/foodsy/widget-main-slider.php:164
+#: themes/lahanna/widget-main-slider.php:164
+msgid "Blur Stack Zoom"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:161
+#: themes/efor/widget-main-slider.php:161
+#: themes/episody/widget-main-slider.php:161
+#: themes/foodsy/widget-main-slider.php:161
+#: themes/lahanna/widget-main-slider.php:161
+msgid "Blur Zoom"
+msgstr ""
+
+#: themes/global-vcard/meta-box-portfolio-details.php:20
+msgid "Bottom"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:288
+#: themes/efor/widget-main-slider.php:288
+#: themes/episody/widget-main-slider.php:288
+#: themes/foodsy/widget-main-slider.php:288
+#: themes/lahanna/widget-main-slider.php:288
+msgid "Box Shadow"
+msgstr ""
+
+#: themes/global/widget-about-me.php:34 themes/global/widget-icon-box.php:44
+#: themes/global/widget-intro.php:39 themes/global/widget-intro.php:49
+#: themes/global/widget-intro.php:63 themes/global/widget-link-box.php:49
+#: themes/life/widget-about-me.php:30 themes/life/widget-intro.php:35
+#: themes/life/widget-intro.php:45 themes/life/widget-intro.php:61
+#: themes/life/widget-link-box.php:31
+msgid "Browse"
+msgstr ""
+
+#: themes/global/widget-button.php:11 themes/global-vcard/widget-button.php:11
+msgid "Button module."
+msgstr ""
+
+#: themes/global/widget-intro.php:76 themes/life/widget-intro.php:76
+msgid "Button Text"
+msgstr ""
+
+#: themes/global/widget-intro.php:80 themes/life/widget-intro.php:81
+msgid "Button URL"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:233
+#: themes/efor/widget-main-slider.php:233
+#: themes/episody/widget-main-slider.php:233
+#: themes/foodsy/widget-main-slider.php:233
+#: themes/global-vcard/widget-section-title.php:31
+#: themes/lahanna/widget-main-slider.php:233
+msgid "Center"
+msgstr ""
+
+#: themes/global/share-links-2.php:69 themes/global/share-links.php:69
+msgid "Check out this post:"
+msgstr ""
+
+#: themes/global/widget-button.php:65
+msgid "Circle"
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:30
+msgid "Classic"
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:33
+msgid "Classic Full"
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:34
+msgid "Classic Full Parallax"
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:35
+msgid "Classic Full with Margins"
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:36
+msgid "Classic Full with Margins Parallax"
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:31
+msgid "Classic Medium"
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:32
+msgid "Classic Medium Parallax"
+msgstr ""
+
+#: themes/global-vcard/meta-box-portfolio-details.php:25
+msgid "Client"
+msgstr ""
+
+#: themes/global-vcard/widget-client.php:11
+msgid "Client module."
+msgstr ""
+
+#: themes/global-vcard/widget-contact-form.php:11
+msgid "Contact form module."
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:293
+#: themes/efor/widget-main-slider.php:293
+#: themes/episody/widget-main-slider.php:293
+#: themes/foodsy/widget-main-slider.php:293
+#: themes/lahanna/widget-main-slider.php:293
+msgid "Container"
+msgstr ""
+
+#: themes/global/dashboard-widget.php:13
+msgid ""
+"Could you please give it a 5-star rating on <a target=\"_blank\" "
+"href=\"https://themeforest.net/\">ThemeForest</a>? We know its a big favor, "
+"but we have worked very much and very hard to release this great product. "
+"Your feedback will boost our motivation and help us promote and continue to "
+"improve this product."
+msgstr ""
+
+#: themes/global/meta-box-sidebar.php:38
+msgid "Course Sidebar"
+msgstr ""
+
+#: themes/global/share-links-2.php:28 themes/global/share-links.php:28
+msgid "Currently reading:"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:281
+#: themes/efor/widget-main-slider.php:281
+#: themes/episody/widget-main-slider.php:281
+#: themes/foodsy/widget-main-slider.php:281
+#: themes/lahanna/widget-main-slider.php:281
+msgid "Dark"
+msgstr ""
+
+#: themes/global-vcard/meta-box-portfolio-details.php:34
+#: themes/global-vcard/widget-timeline-event.php:41
+msgid "Date"
+msgstr ""
+
+#: themes/global/meta-box-post-header-style.php:30
+#: themes/global/widget-about-me.php:54 themes/life/widget-about-me.php:50
+msgid "Default"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:175
+#: themes/efor/widget-main-slider.php:175
+#: themes/episody/widget-main-slider.php:175
+#: themes/foodsy/widget-main-slider.php:175
+#: themes/lahanna/widget-main-slider.php:175
+msgid "Default: 0.7 s"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:228
+#: themes/efor/widget-main-slider.php:228
+#: themes/episody/widget-main-slider.php:228
+#: themes/foodsy/widget-main-slider.php:228
+#: themes/lahanna/widget-main-slider.php:228
+#: themes/life/widget-main-slider.php:124
+msgid "Default: 4000 ms"
+msgstr ""
+
+#: themes/global-vcard/widget-contact-form.php:34
+msgid "Define a subject text for contact form messages."
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:59
+#: themes/global-vcard/widget-social-media-icon.php:50
+msgid "Delicious"
+msgstr ""
+
+#: themes/global-vcard/widget-timeline-event.php:25
+msgid "Department / Job"
+msgstr ""
+
+#: themes/global/widget-about-me.php:41 themes/global/widget-icon-box.php:34
+#: themes/global/widget-intro.php:72
+#: themes/global-vcard/meta-box-portfolio-details.php:61
+#: themes/global-vcard/widget-service.php:30
+#: themes/global-vcard/widget-timeline-event.php:35
+#: themes/ikonik/widget-testimonial.php:36 themes/life/widget-about-me.php:37
+#: themes/life/widget-intro.php:71 themes/unrovr/widget-testimonial.php:36
+msgid "Description"
+msgstr ""
+
+#: themes/global-vcard/meta-box-portfolio-details.php:122
+#: themes/ucard/meta-box-portfolio-details.php:45
+msgid "Details"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:72
+msgid "DeviantArt"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:60
+#: themes/global-vcard/widget-social-media-icon.php:51
+msgid "Digg"
+msgstr ""
+
+#: themes/ucard/meta-box-portfolio-details.php:23
+msgid "Direct URL"
+msgstr ""
+
+#: themes/ikonik/widget-homepage-menu-item.php:56
+msgid ""
+"Disable AJAX feature for this link. Check this if a plugin generated content "
+"is not shown properly."
+msgstr ""
+
+#: themes/global/widget-icon-box.php:86
+msgid "Display"
+msgstr ""
+
+#: themes/global-vcard/meta-box-portfolio-details.php:13
+msgid "Display location"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:11
+#: themes/efor/widget-main-slider.php:11
+#: themes/episody/widget-main-slider.php:11
+#: themes/foodsy/widget-main-slider.php:11
+#: themes/lahanna/widget-main-slider.php:11
+#: themes/life/widget-main-slider.php:9
+msgid "Display your site's posts."
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:48
+#: themes/global-vcard/widget-social-media-icon.php:39
+msgid "Dribbble"
+msgstr ""
+
+#: themes/global/share-links-2.php:93 themes/global/share-links.php:93
+#: themes/global-vcard/widget-contact-form.php:91
+#: themes/global-vcard/widget-social-media-icon.php:62
+msgid "Email"
+msgstr ""
+
+#: themes/global/share-links-2.php:63 themes/global/share-links.php:63
+msgid "Email this post to a friend"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:47
+#: themes/efor/widget-main-slider.php:47
+#: themes/episody/widget-main-slider.php:47
+#: themes/foodsy/widget-main-slider.php:47
+#: themes/lahanna/widget-main-slider.php:47
+#: themes/life/widget-main-slider.php:32
+msgid "Enter title."
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:104
+#: themes/efor/widget-main-slider.php:104
+#: themes/episody/widget-main-slider.php:104
+#: themes/foodsy/widget-main-slider.php:104
+#: themes/global/widget-link-box.php:72
+#: themes/lahanna/widget-main-slider.php:104 themes/life/widget-link-box.php:65
+#: themes/life/widget-main-slider.php:73
+msgid "Extra Wide"
+msgstr ""
+
+#: themes/global/share-links-2.php:87 themes/global/share-links.php:87
+#: themes/global/widget-social-media-icon.php:34
+#: themes/global-vcard/widget-social-media-icon.php:30
+msgid "Facebook"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:117
+#: themes/efor/widget-main-slider.php:117
+#: themes/episody/widget-main-slider.php:117
+#: themes/foodsy/widget-main-slider.php:117
+#: themes/lahanna/widget-main-slider.php:117
+#: themes/life/widget-main-slider.php:82
+msgid "Fade"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:122
+#: themes/efor/widget-main-slider.php:122
+#: themes/episody/widget-main-slider.php:122
+#: themes/foodsy/widget-main-slider.php:122
+#: themes/lahanna/widget-main-slider.php:122
+msgid "Fade Horizontal"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:123
+#: themes/efor/widget-main-slider.php:123
+#: themes/episody/widget-main-slider.php:123
+#: themes/foodsy/widget-main-slider.php:123
+#: themes/lahanna/widget-main-slider.php:123
+msgid "Fade Horizontal Big"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:148
+#: themes/efor/widget-main-slider.php:148
+#: themes/episody/widget-main-slider.php:148
+#: themes/foodsy/widget-main-slider.php:148
+#: themes/lahanna/widget-main-slider.php:148
+msgid "Fade Left Zoom Out"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:147
+#: themes/efor/widget-main-slider.php:147
+#: themes/episody/widget-main-slider.php:147
+#: themes/foodsy/widget-main-slider.php:147
+#: themes/lahanna/widget-main-slider.php:147
+msgid "Fade Up Zoom Out"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:124
+#: themes/efor/widget-main-slider.php:124
+#: themes/episody/widget-main-slider.php:124
+#: themes/foodsy/widget-main-slider.php:124
+#: themes/lahanna/widget-main-slider.php:124
+msgid "Fade Vertical"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:125
+#: themes/efor/widget-main-slider.php:125
+#: themes/episody/widget-main-slider.php:125
+#: themes/foodsy/widget-main-slider.php:125
+#: themes/lahanna/widget-main-slider.php:125
+msgid "Fade Vertical Big"
+msgstr ""
+
+#: themes/life/widget-main-slider.php:85
+msgid "Fade Zoom"
+msgstr ""
+
+#: themes/global/meta-box-featured-area.php:109
+msgid "Featured Area"
+msgstr ""
+
+#: themes/global/meta-box-featured-area.php:52
+msgid ""
+"Featured Area is a widget area like sidebars. So you can create new one from "
+"Appearance > Theme Options > Widget Areas."
+msgstr ""
+
+#: themes/life/meta-box-featured-media.php:103
+msgid "Featured Audio/Video"
+msgstr ""
+
+#: themes/life/meta-box-featured-media.php:110
+msgid "Featured Audio/Video/Link"
+msgstr ""
+
+#: themes/global-vcard/meta-box-featured-media.php:101
+msgid "Featured Media"
+msgstr ""
+
+#: themes/global-vcard/meta-box-featured-media.php:12
+msgid "Featured Video/Audio/Link"
+msgstr ""
+
+#: themes/unrovr/widget-map.php:82
+msgid "Fill the field: Appearance > Customize > General > Google Map API Key."
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:45
+#: themes/global-vcard/widget-social-media-icon.php:36
+msgid "Flickr"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:150
+#: themes/efor/widget-main-slider.php:150
+#: themes/episody/widget-main-slider.php:150
+#: themes/foodsy/widget-main-slider.php:150
+#: themes/lahanna/widget-main-slider.php:150
+msgid "Flip Horizontal"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:149
+#: themes/efor/widget-main-slider.php:149
+#: themes/episody/widget-main-slider.php:149
+#: themes/foodsy/widget-main-slider.php:149
+#: themes/lahanna/widget-main-slider.php:149
+msgid "Flip Vertical"
+msgstr ""
+
+#: themes/global/meta-box-post-header-style.php:37
+msgid "Floating Box"
+msgstr ""
+
+#: themes/global/meta-box-post-header-style.php:38
+msgid "Floating Box Margin"
+msgstr ""
+
+#: themes/global/meta-box-post-header-style.php:39
+msgid "Floating Box Menu"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:49
+#: themes/global-vcard/widget-social-media-icon.php:40
+msgid "Forrst"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:63
+#: themes/global-vcard/widget-social-media-icon.php:54
+msgid "Foursquare"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:106
+#: themes/efor/widget-main-slider.php:106
+#: themes/episody/widget-main-slider.php:106
+#: themes/foodsy/widget-main-slider.php:106
+#: themes/lahanna/widget-main-slider.php:106
+msgid "Fullscreen"
+msgstr ""
+
+#: themes/global-vcard/widget-fun-fact.php:11
+msgid "Fun fact module."
+msgstr ""
+
+#: themes/global/meta-box-gallery-type.php:83
+msgid "Gallery Type"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:61
+#: themes/global-vcard/widget-social-media-icon.php:52
+msgid "GitHub"
+msgstr ""
+
+#: themes/life/widget-main-slider.php:84
+msgid "Go Down"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:75
+msgid "Goodreads"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:42
+#: themes/global-vcard/widget-social-media-icon.php:33
+msgid "Google+"
+msgstr ""
+
+#: themes/global/meta-box-gallery-type.php:20
+msgid "Grid"
+msgstr ""
+
+#: themes/global/meta-box-post-header-style.php:33
+msgid "Half Transparent"
+msgstr ""
+
+#: themes/global/meta-box-post-header-style.php:34
+msgid "Half Transparent Margin"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:270
+#: themes/efor/widget-main-slider.php:270
+#: themes/episody/widget-main-slider.php:270
+#: themes/foodsy/widget-main-slider.php:270
+#: themes/lahanna/widget-main-slider.php:270
+msgid "Hidden"
+msgstr ""
+
+#: themes/global/meta-box-title-visibility.php:19
+msgid "Hide Title"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:153
+#: themes/efor/widget-main-slider.php:153
+#: themes/episody/widget-main-slider.php:153
+#: themes/foodsy/widget-main-slider.php:153
+#: themes/lahanna/widget-main-slider.php:153
+msgid "Hinge"
+msgstr ""
+
+#: themes/unrovr/widget-map.php:88
+msgid "How to Get Google Map Api Key?"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.pixelwars.org"
+msgstr ""
+
+#: themes/global/widget-button.php:77
+msgid "Huge"
+msgstr ""
+
+#: themes/global/share-links-2.php:69 themes/global/share-links.php:69
+msgid "I wanted you to see this post"
+msgstr ""
+
+#: themes/global/widget-button.php:81 themes/global/widget-icon-box.php:38
+#: themes/global/widget-social-media-icon.php:31
+#: themes/global-vcard/widget-button.php:50
+#: themes/global-vcard/widget-social-media-icon.php:27
+#: themes/global-vcard/widget-timeline-title.php:28
+#: themes/life/widget-social-media-icon.php:26
+#: themes/unrovr/widget-homepage-menu-item.php:53
+msgid "Icon"
+msgstr ""
+
+#: themes/global/widget-icon-box.php:11
+msgid "Icon Box module."
+msgstr ""
+
+#: themes/global/widget-icon-box.php:62
+msgid "Icon Position"
+msgstr ""
+
+#: themes/global/widget-icon-box.php:71
+msgid "Icon Size"
+msgstr ""
+
+#: themes/global/widget-about-me.php:31 themes/global/widget-intro.php:36
+#: themes/global/widget-link-box.php:46 themes/life/widget-about-me.php:27
+#: themes/life/widget-intro.php:32 themes/life/widget-link-box.php:28
+msgid "Image"
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:43
+msgid "Image Left"
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:44
+msgid "Image Right"
+msgstr ""
+
+#: themes/global-vcard/widget-social-media-icon.php:61
+msgid "IMDb"
+msgstr ""
+
+#: themes/global/meta-box-post-header-style.php:29
+#: themes/global/meta-box-post-style.php:29
+#: themes/global/meta-box-sidebar.php:28
+msgid "Inherit from Customizer"
+msgstr ""
+
+#: themes/global/meta-box-post-header-style.php:46
+msgid ""
+"Inherit from Customizer: Appearance > Customize > Pages > Page Header Style."
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:51
+msgid "Inherit from Customizer: Appearance > Customize > Pages > Page Style."
+msgstr ""
+
+#: themes/global/meta-box-post-header-style.php:54
+msgid ""
+"Inherit from Customizer: Appearance > Customize > Portfolio > Post Header "
+"Style."
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:59
+msgid ""
+"Inherit from Customizer: Appearance > Customize > Portfolio > Post Style."
+msgstr ""
+
+#: themes/global/meta-box-sidebar.php:76
+msgid ""
+"Inherit from Customizer: Appearance > Customize > Sidebar > Course Sidebar."
+msgstr ""
+
+#: themes/global/meta-box-sidebar.php:72
+msgid ""
+"Inherit from Customizer: Appearance > Customize > Sidebar > Portfolio Post "
+"Sidebar."
+msgstr ""
+
+#: themes/global/meta-box-sidebar.php:68
+msgid ""
+"Inherit from Customizer: Appearance > Customize > Sidebar > Post Sidebar."
+msgstr ""
+
+#: themes/global/meta-box-post-header-style.php:50
+msgid ""
+"Inherit from Customizer: Appearance > Customize > Single Post > Post Header "
+"Style."
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:55
+msgid ""
+"Inherit from Customizer: Appearance > Customize > Single Post > Post Style."
+msgstr ""
+
+#: themes/global/widget-icon-box.php:89
+msgid "Inline"
+msgstr ""
+
+#: themes/global/widget-icon-box.php:90
+msgid "Inline Block"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:36
+#: themes/global-vcard/widget-social-media-icon.php:32
+msgid "Instagram"
+msgstr ""
+
+#: themes/global/widget-intro.php:11 themes/life/widget-intro.php:9
+msgid "Intro widget."
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:165
+#: themes/efor/widget-main-slider.php:165
+#: themes/episody/widget-main-slider.php:165
+#: themes/foodsy/widget-main-slider.php:165
+#: themes/lahanna/widget-main-slider.php:165
+msgid "Invert"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:152
+#: themes/efor/widget-main-slider.php:152
+#: themes/episody/widget-main-slider.php:152
+#: themes/foodsy/widget-main-slider.php:152
+#: themes/lahanna/widget-main-slider.php:152
+msgid "Jack In The Box"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:126
+#: themes/efor/widget-main-slider.php:126
+#: themes/episody/widget-main-slider.php:126
+#: themes/foodsy/widget-main-slider.php:126
+#: themes/lahanna/widget-main-slider.php:126
+msgid "Jello"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:129
+#: themes/efor/widget-main-slider.php:129
+#: themes/episody/widget-main-slider.php:129
+#: themes/foodsy/widget-main-slider.php:129
+#: themes/lahanna/widget-main-slider.php:129
+msgid "Jello Horizontal"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:130
+#: themes/efor/widget-main-slider.php:130
+#: themes/episody/widget-main-slider.php:130
+#: themes/foodsy/widget-main-slider.php:130
+#: themes/lahanna/widget-main-slider.php:130
+msgid "Jello Horizontal Big"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:127
+#: themes/efor/widget-main-slider.php:127
+#: themes/episody/widget-main-slider.php:127
+#: themes/foodsy/widget-main-slider.php:127
+#: themes/lahanna/widget-main-slider.php:127
+msgid "Jello Vertical"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:128
+#: themes/efor/widget-main-slider.php:128
+#: themes/episody/widget-main-slider.php:128
+#: themes/foodsy/widget-main-slider.php:128
+#: themes/lahanna/widget-main-slider.php:128
+msgid "Jello Vertical Big"
+msgstr ""
+
+#: themes/ikonik/widget-testimonial.php:31
+#: themes/unrovr/widget-testimonial.php:31
+msgid "Job / Company"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:159
+#: themes/efor/widget-main-slider.php:159
+#: themes/episody/widget-main-slider.php:159
+#: themes/foodsy/widget-main-slider.php:159
+#: themes/lahanna/widget-main-slider.php:159
+msgid "Jump In"
+msgstr ""
+
+#: themes/global/widget-icon-box.php:79
+msgid "L"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:55
+#: themes/global-vcard/widget-social-media-icon.php:46
+msgid "Last.fm"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:57
+#: themes/efor/widget-main-slider.php:57
+#: themes/episody/widget-main-slider.php:57
+#: themes/foodsy/widget-main-slider.php:57
+#: themes/lahanna/widget-main-slider.php:57
+#: themes/life/widget-main-slider.php:39
+msgid "Latest posts"
+msgstr ""
+
+#: themes/unrovr/widget-map.php:26
+msgid "Latitude"
+msgstr ""
+
+#: themes/global-vcard/meta-box-portfolio-details.php:52
+msgid "Launch Project URL"
+msgstr ""
+
+#: themes/global-vcard/widget-contact-form.php:97
+msgid "Leave this empty if you are a human"
+msgstr ""
+
+#: themes/global/widget-icon-box.php:66
+#: themes/global-vcard/widget-section-title.php:32
+msgid "Left"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:151
+#: themes/efor/widget-main-slider.php:151
+#: themes/episody/widget-main-slider.php:151
+#: themes/foodsy/widget-main-slider.php:151
+#: themes/lahanna/widget-main-slider.php:151
+msgid "Light Speed"
+msgstr ""
+
+#: themes/ucard/meta-box-portfolio-details.php:19
+msgid "Lightbox Audio"
+msgstr ""
+
+#: themes/ucard/meta-box-portfolio-details.php:17
+msgid "Lightbox Gallery"
+msgstr ""
+
+#: themes/ucard/meta-box-portfolio-details.php:21
+msgid "Lightbox Video"
+msgstr ""
+
+#: themes/global/widget-button.php:56
+msgid "Line"
+msgstr ""
+
+#: themes/global/widget-link-box.php:11 themes/life/widget-link-box.php:9
+msgid "Link box widget."
+msgstr ""
+
+#: themes/global/widget-link-box.php:33
+#: themes/global-vcard/widget-client.php:59 themes/life/widget-link-box.php:38
+msgid "Link URL"
+msgstr ""
+
+#: themes/global/meta-box-featured-media.php:39
+#: themes/global-vcard/meta-box-featured-media.php:47
+msgid "Link: Enter your custom url."
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:43
+#: themes/global-vcard/widget-social-media-icon.php:34
+msgid "LinkedIn"
+msgstr ""
+
+#: themes/unrovr/widget-map.php:31
+msgid "Longitude"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:244
+#: themes/efor/widget-main-slider.php:244
+#: themes/episody/widget-main-slider.php:244
+#: themes/foodsy/widget-main-slider.php:244
+#: themes/lahanna/widget-main-slider.php:244
+msgid "Loop"
+msgstr ""
+
+#: themes/global/widget-icon-box.php:78
+msgid "M"
+msgstr ""
+
+#: themes/unrovr/widget-map.php:11
+msgid "Map module."
+msgstr ""
+
+#: themes/global/widget-button.php:73
+#: themes/global/widget-social-media-icon.php:40
+#: themes/global-vcard/widget-button.php:45
+msgid "Medium"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:74
+msgid "Meetup"
+msgstr ""
+
+#: themes/global-vcard/widget-contact-form.php:94
+msgid "Message"
+msgstr ""
+
+#: themes/global/widget-button.php:75
+msgid "Mini"
+msgstr ""
+
+#: themes/global/widget-about-me.php:103 themes/life/widget-about-me.php:101
+msgid "more"
+msgstr ""
+
+#: themes/global/widget-about-me.php:46 themes/life/widget-about-me.php:42
+msgid "More Link URL"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:180
+#: themes/efor/widget-main-slider.php:180
+#: themes/episody/widget-main-slider.php:180
+#: themes/foodsy/widget-main-slider.php:180
+#: themes/lahanna/widget-main-slider.php:180
+#: themes/life/widget-main-slider.php:89
+msgid "Mouse Drag"
+msgstr ""
+
+#: themes/life/widget-intro.php:62
+msgid "MP4 video."
+msgstr ""
+
+#: themes/global/widget-button.php:66
+msgid "Naked"
+msgstr ""
+
+#: themes/global-vcard/widget-contact-form.php:88
+#: themes/ikonik/widget-testimonial.php:26
+#: themes/unrovr/widget-testimonial.php:26
+msgid "Name"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:191
+#: themes/efor/widget-main-slider.php:191
+#: themes/episody/widget-main-slider.php:191
+#: themes/foodsy/widget-main-slider.php:191
+#: themes/lahanna/widget-main-slider.php:191
+#: themes/life/widget-main-slider.php:97
+msgid "Nav Arrows"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:202
+#: themes/efor/widget-main-slider.php:202
+#: themes/episody/widget-main-slider.php:202
+#: themes/foodsy/widget-main-slider.php:202
+#: themes/lahanna/widget-main-slider.php:202
+#: themes/life/widget-main-slider.php:105
+msgid "Nav Dots"
+msgstr ""
+
+#: themes/ikonik/widget-homepage-menu-item.php:24
+#: themes/unrovr/widget-homepage-menu-item.php:24
+msgid "Navigation Label"
+msgstr ""
+
+#: themes/life/widget-social-media-feed.php:31
+msgid "Network"
+msgstr ""
+
+#: themes/life/widget-intro.php:85 themes/life/widget-link-box.php:42
+#: themes/life/widget-social-media-icon.php:70
+msgid "New Tab"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:184
+#: themes/consultify/widget-main-slider.php:196
+#: themes/consultify/widget-main-slider.php:207
+#: themes/consultify/widget-main-slider.php:217
+#: themes/consultify/widget-main-slider.php:237
+#: themes/consultify/widget-main-slider.php:249
+#: themes/consultify/widget-main-slider.php:260
+#: themes/efor/widget-main-slider.php:184
+#: themes/efor/widget-main-slider.php:196
+#: themes/efor/widget-main-slider.php:207
+#: themes/efor/widget-main-slider.php:217
+#: themes/efor/widget-main-slider.php:237
+#: themes/efor/widget-main-slider.php:249
+#: themes/efor/widget-main-slider.php:260
+#: themes/episody/widget-main-slider.php:184
+#: themes/episody/widget-main-slider.php:196
+#: themes/episody/widget-main-slider.php:207
+#: themes/episody/widget-main-slider.php:217
+#: themes/episody/widget-main-slider.php:237
+#: themes/episody/widget-main-slider.php:249
+#: themes/episody/widget-main-slider.php:260
+#: themes/foodsy/widget-main-slider.php:184
+#: themes/foodsy/widget-main-slider.php:196
+#: themes/foodsy/widget-main-slider.php:207
+#: themes/foodsy/widget-main-slider.php:217
+#: themes/foodsy/widget-main-slider.php:237
+#: themes/foodsy/widget-main-slider.php:249
+#: themes/foodsy/widget-main-slider.php:260 themes/global/widget-intro.php:86
+#: themes/global/widget-link-box.php:41
+#: themes/global/widget-social-media-icon.php:90
+#: themes/lahanna/widget-main-slider.php:184
+#: themes/lahanna/widget-main-slider.php:196
+#: themes/lahanna/widget-main-slider.php:207
+#: themes/lahanna/widget-main-slider.php:217
+#: themes/lahanna/widget-main-slider.php:237
+#: themes/lahanna/widget-main-slider.php:249
+#: themes/lahanna/widget-main-slider.php:260 themes/life/widget-intro.php:88
+#: themes/life/widget-link-box.php:45 themes/life/widget-main-slider.php:92
+#: themes/life/widget-main-slider.php:101
+#: themes/life/widget-main-slider.php:109
+#: themes/life/widget-main-slider.php:116
+#: themes/life/widget-social-media-icon.php:74
+msgid "No"
+msgstr ""
+
+#: themes/global/meta-box-featured-area.php:20
+msgid "No Featured Area"
+msgstr ""
+
+#: themes/global-vcard/widget-client.php:35
+#: themes/global-vcard/widget-fun-fact.php:38
+#: themes/global-vcard/widget-process.php:38
+#: themes/global-vcard/widget-service.php:44
+#: themes/ikonik/widget-testimonial.php:50 themes/unrovr/widget-map.php:50
+#: themes/unrovr/widget-testimonial.php:50
+msgid "No image selected"
+msgstr ""
+
+#: themes/global/meta-box-sidebar.php:32
+msgid "No Sidebar"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:282
+#: themes/consultify/widget-main-slider.php:292
+#: themes/efor/widget-main-slider.php:282
+#: themes/efor/widget-main-slider.php:292
+#: themes/episody/widget-main-slider.php:282
+#: themes/episody/widget-main-slider.php:292
+#: themes/foodsy/widget-main-slider.php:282
+#: themes/foodsy/widget-main-slider.php:292
+#: themes/lahanna/widget-main-slider.php:282
+#: themes/lahanna/widget-main-slider.php:292
+msgid "None"
+msgstr ""
+
+#: themes/global-vcard/widget-progress-bar.php:32
+msgid "Number of value. (1 to 100)"
+msgstr ""
+
+#: themes/global/related-posts.php:35 themes/global/share-links-2.php:28
+#: themes/global/share-links.php:28
+msgid "on"
+msgstr ""
+
+#: themes/global-vcard/meta-box-featured-media.php:30
+msgid "Open \"Link\" format in new tab"
+msgstr ""
+
+#: themes/global/meta-box-featured-media.php:24
+msgid "Open \"Link\" in new tab"
+msgstr ""
+
+#: themes/life/meta-box-featured-media.php:19
+msgid "Open In New Tab"
+msgstr ""
+
+#: themes/global/widget-button.php:42 themes/global/widget-icon-box.php:58
+#: themes/global/widget-intro.php:84 themes/global/widget-link-box.php:38
+#: themes/global/widget-social-media-icon.php:86
+#: themes/global-vcard/widget-button.php:38
+#: themes/global-vcard/widget-client.php:66
+#: themes/global-vcard/widget-social-media-icon.php:74
+#: themes/ucard/meta-box-portfolio-details.php:35
+msgid "Open link in new tab"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:266
+#: themes/efor/widget-main-slider.php:266
+#: themes/episody/widget-main-slider.php:266
+#: themes/foodsy/widget-main-slider.php:266
+#: themes/lahanna/widget-main-slider.php:266
+msgid "Overflow"
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:37
+msgid "Overlay"
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:39
+msgid "Overlay Full"
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:40
+msgid "Overlay Full with Margins"
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:41
+msgid "Overlay Fullscreen"
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:38
+msgid "Overlay Medium"
+msgstr ""
+
+#: themes/global/meta-box-featured-area.php:22
+msgid "Page Featured Area"
+msgstr ""
+
+#: themes/global/meta-box-post-header-style.php:110
+msgid "Page Header Style"
+msgstr ""
+
+#: themes/global/meta-box-sidebar.php:35
+msgid "Page Sidebar"
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:124
+msgid "Page Style"
+msgstr ""
+
+#: themes/global/widget-button.php:63
+msgid "Paper"
+msgstr ""
+
+#: themes/global-vcard/widget-progress-bar.php:28
+msgid "Percent"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:68
+msgid "Picasa"
+msgstr ""
+
+#: themes/global/share-links-2.php:39 themes/global/share-links.php:39
+msgid "Pin it"
+msgstr ""
+
+#: themes/global/share-links-2.php:91 themes/global/share-links.php:91
+#: themes/global/widget-social-media-icon.php:44
+#: themes/global-vcard/widget-social-media-icon.php:35
+msgid "Pinterest"
+msgstr ""
+
+#. Author of the plugin
+#: themes/global/dashboard-widget.php:24
+msgid "Pixelwars"
+msgstr ""
+
+#. Name of the plugin
+msgid "Pixelwars Core"
+msgstr ""
+
+#: themes/global/post-type-portfolio-2.php:17
+#: themes/global/post-type-portfolio-2.php:18
+#: themes/global/post-type-portfolio-2.php:19
+#: themes/global/post-type-portfolio.php:17
+#: themes/global/post-type-portfolio.php:18
+#: themes/global/post-type-portfolio.php:19
+#: themes/ikonik/post-type-portfolio.php:27
+#: themes/ucard/post-type-portfolio.php:8
+#: themes/unrovr/post-type-portfolio.php:27
+msgid "Portfolio"
+msgstr ""
+
+#: themes/global/post-type-portfolio-2.php:47
+#: themes/global/post-type-portfolio.php:46
+#: themes/ikonik/post-type-portfolio.php:48
+#: themes/ucard/post-type-portfolio.php:28
+#: themes/unrovr/post-type-portfolio.php:47
+msgid "Portfolio Categories"
+msgstr ""
+
+#: themes/global/meta-box-featured-area.php:23
+msgid "Portfolio Featured Area"
+msgstr ""
+
+#: themes/global/post-type-portfolio-2.php:21
+#: themes/global/post-type-portfolio.php:21
+msgid "Portfolio Post"
+msgstr ""
+
+#: themes/global/meta-box-sidebar.php:36
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: themes/global/meta-box-post-header-style.php:105
+msgid "Post Header Style"
+msgstr ""
+
+#: themes/global/meta-box-sidebar.php:34
+msgid "Post Sidebar"
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:119
+msgid "Post Style"
+msgstr ""
+
+#: themes/global/widget-button.php:48
+msgid "Primary"
+msgstr ""
+
+#: themes/global-vcard/widget-process.php:11
+msgid "Process module."
+msgstr ""
+
+#: themes/global-vcard/widget-progress-bar.php:11
+msgid "Progress bar module."
+msgstr ""
+
+#: themes/unrovr/widget-homepage-menu-item.php:55
+msgid "pw-icon-xxx"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:71
+msgid "Quora"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:97
+#: themes/efor/widget-main-slider.php:97
+#: themes/episody/widget-main-slider.php:97
+#: themes/foodsy/widget-main-slider.php:97 themes/global/widget-link-box.php:66
+#: themes/lahanna/widget-main-slider.php:97 themes/life/widget-link-box.php:59
+#: themes/life/widget-main-slider.php:68
+msgid "Ratio"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:73
+msgid "Reddit"
+msgstr ""
+
+#: themes/global-vcard/widget-client.php:55
+#: themes/global-vcard/widget-fun-fact.php:58
+#: themes/global-vcard/widget-process.php:58
+#: themes/global-vcard/widget-service.php:64
+#: themes/ikonik/widget-testimonial.php:70 themes/unrovr/widget-map.php:70
+#: themes/unrovr/widget-testimonial.php:70
+msgid "Remove Image"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:255
+#: themes/efor/widget-main-slider.php:255
+#: themes/episody/widget-main-slider.php:255
+#: themes/foodsy/widget-main-slider.php:255
+#: themes/lahanna/widget-main-slider.php:255
+msgid "Rewind"
+msgstr ""
+
+#: themes/global/widget-icon-box.php:67
+msgid "Right"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:154
+#: themes/efor/widget-main-slider.php:154
+#: themes/episody/widget-main-slider.php:154
+#: themes/foodsy/widget-main-slider.php:154
+#: themes/lahanna/widget-main-slider.php:154
+msgid "Rotate"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:156
+#: themes/efor/widget-main-slider.php:156
+#: themes/episody/widget-main-slider.php:156
+#: themes/foodsy/widget-main-slider.php:156
+#: themes/lahanna/widget-main-slider.php:156
+msgid "Rotate Down Switch"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:157
+#: themes/efor/widget-main-slider.php:157
+#: themes/episody/widget-main-slider.php:157
+#: themes/foodsy/widget-main-slider.php:157
+#: themes/lahanna/widget-main-slider.php:157
+msgid "Rotate Horizontal"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:155
+#: themes/efor/widget-main-slider.php:155
+#: themes/episody/widget-main-slider.php:155
+#: themes/foodsy/widget-main-slider.php:155
+#: themes/lahanna/widget-main-slider.php:155
+msgid "Rotate Up Switch"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:158
+#: themes/efor/widget-main-slider.php:158
+#: themes/episody/widget-main-slider.php:158
+#: themes/foodsy/widget-main-slider.php:158
+#: themes/lahanna/widget-main-slider.php:158
+msgid "Rotate Vertical"
+msgstr ""
+
+#: themes/global/widget-about-me.php:55 themes/life/widget-about-me.php:51
+msgid "Rounded Image"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:77
+#: themes/global-vcard/widget-social-media-icon.php:63
+msgid "RSS"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:136
+#: themes/efor/widget-main-slider.php:136
+#: themes/episody/widget-main-slider.php:136
+#: themes/foodsy/widget-main-slider.php:136
+#: themes/lahanna/widget-main-slider.php:136
+msgid "Rubber Band"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:139
+#: themes/efor/widget-main-slider.php:139
+#: themes/episody/widget-main-slider.php:139
+#: themes/foodsy/widget-main-slider.php:139
+#: themes/lahanna/widget-main-slider.php:139
+msgid "Rubber Band Horizontal"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:140
+#: themes/efor/widget-main-slider.php:140
+#: themes/episody/widget-main-slider.php:140
+#: themes/foodsy/widget-main-slider.php:140
+#: themes/lahanna/widget-main-slider.php:140
+msgid "Rubber Band Horizontal Big"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:137
+#: themes/efor/widget-main-slider.php:137
+#: themes/episody/widget-main-slider.php:137
+#: themes/foodsy/widget-main-slider.php:137
+#: themes/lahanna/widget-main-slider.php:137
+msgid "Rubber Band Vertical"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:138
+#: themes/efor/widget-main-slider.php:138
+#: themes/episody/widget-main-slider.php:138
+#: themes/foodsy/widget-main-slider.php:138
+#: themes/lahanna/widget-main-slider.php:138
+msgid "Rubber Band Vertical Big"
+msgstr ""
+
+#: themes/global/widget-icon-box.php:77
+msgid "S"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:119
+#: themes/efor/widget-main-slider.php:119
+#: themes/episody/widget-main-slider.php:119
+#: themes/foodsy/widget-main-slider.php:119
+#: themes/lahanna/widget-main-slider.php:119
+msgid "Scale"
+msgstr ""
+
+#: themes/global-vcard/widget-timeline-event.php:30
+msgid "School / Company"
+msgstr ""
+
+#: themes/global/widget-button.php:49
+msgid "Secondary"
+msgstr ""
+
+#: themes/global-vcard/widget-section-title.php:11
+msgid "Section title for modules."
+msgstr ""
+
+#: themes/global/meta-box-featured-area.php:14
+msgid "Select Featured Area:"
+msgstr ""
+
+#: themes/global/meta-box-gallery-type.php:14
+msgid "Select Gallery Type:"
+msgstr ""
+
+#: themes/global-vcard/widget-client.php:43
+#: themes/global-vcard/widget-fun-fact.php:46
+#: themes/global-vcard/widget-process.php:46
+#: themes/global-vcard/widget-service.php:52
+#: themes/ikonik/widget-testimonial.php:58 themes/unrovr/widget-map.php:58
+#: themes/unrovr/widget-testimonial.php:58
+msgid "Select Image"
+msgstr ""
+
+#: themes/ikonik/widget-homepage-menu-item.php:29
+#: themes/unrovr/widget-homepage-menu-item.php:29
+msgid "Select Page"
+msgstr ""
+
+#: themes/global/meta-box-post-header-style.php:20
+msgid "Select Page Header Style:"
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:20
+msgid "Select Page Style:"
+msgstr ""
+
+#: themes/global/meta-box-post-header-style.php:15
+msgid "Select Post Header Style:"
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:15
+msgid "Select Post Style:"
+msgstr ""
+
+#: themes/global/meta-box-sidebar.php:14
+msgid "Select Sidebar:"
+msgstr ""
+
+#: themes/global-vcard/widget-contact-form.php:100
+msgid "Send"
+msgstr ""
+
+#: themes/global-vcard/widget-service.php:11
+msgid "Service module."
+msgstr ""
+
+#: themes/global-vcard/meta-box-portfolio-details.php:43
+msgid "Services"
+msgstr ""
+
+#: themes/global/widget-button.php:61
+msgid "Shadow"
+msgstr ""
+
+#: themes/global/widget-button.php:62
+msgid "Shadow Light"
+msgstr ""
+
+#: themes/global/share-links-2.php:83 themes/global/share-links.php:83
+msgid "Share"
+msgstr ""
+
+#: themes/global/share-links-2.php:105 themes/global/share-links.php:105
+msgid "Share This"
+msgstr ""
+
+#: themes/global/share-links-2.php:5 themes/global/share-links.php:5
+msgid "Share this post on Facebook"
+msgstr ""
+
+#: themes/global/widget-button.php:64
+msgid "Shift"
+msgstr ""
+
+#: themes/global/meta-box-featured-area.php:24
+msgid "Shop Featured Area"
+msgstr ""
+
+#: themes/global/meta-box-sidebar.php:37
+msgid "Shop Sidebar"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:71
+#: themes/efor/widget-main-slider.php:71
+#: themes/episody/widget-main-slider.php:71
+#: themes/foodsy/widget-main-slider.php:71
+#: themes/lahanna/widget-main-slider.php:71
+#: themes/life/widget-main-slider.php:48
+#: themes/life/widget-social-media-feed.php:40
+msgid "Show Items"
+msgstr ""
+
+#: themes/global/meta-box-sidebar.php:142
+msgid "Sidebar"
+msgstr ""
+
+#: themes/global/widget-button.php:70 themes/global-vcard/widget-button.php:41
+msgid "Size"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:50
+#: themes/global-vcard/widget-social-media-icon.php:41
+msgid "Skype"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:116
+#: themes/efor/widget-main-slider.php:116
+#: themes/episody/widget-main-slider.php:116
+#: themes/foodsy/widget-main-slider.php:116
+#: themes/lahanna/widget-main-slider.php:116
+#: themes/life/widget-main-slider.php:81
+msgid "Slide"
+msgstr ""
+
+#: themes/global/meta-box-gallery-type.php:21
+msgid "Slider"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:52
+#: themes/consultify/widget-main-slider.php:294
+#: themes/efor/widget-main-slider.php:52 themes/efor/widget-main-slider.php:294
+#: themes/episody/widget-main-slider.php:52
+#: themes/episody/widget-main-slider.php:294
+#: themes/foodsy/widget-main-slider.php:52
+#: themes/foodsy/widget-main-slider.php:294
+#: themes/lahanna/widget-main-slider.php:52
+#: themes/lahanna/widget-main-slider.php:294
+#: themes/life/widget-main-slider.php:35
+msgid "Slides"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:63
+#: themes/efor/widget-main-slider.php:63
+#: themes/episody/widget-main-slider.php:63
+#: themes/foodsy/widget-main-slider.php:63
+#: themes/lahanna/widget-main-slider.php:63
+#: themes/life/widget-main-slider.php:43
+msgid "Slides Count"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:66
+#: themes/global-vcard/widget-social-media-icon.php:57
+msgid "SlideShare"
+msgstr ""
+
+#: themes/global/widget-button.php:74 themes/global-vcard/widget-button.php:44
+msgid "Small"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:37
+#: themes/global-vcard/widget-social-media-icon.php:60
+msgid "Snapchat"
+msgstr ""
+
+#: themes/life/widget-social-media-feed.php:9
+msgid "Social media feed."
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:11
+#: themes/life/widget-social-media-icon.php:9
+msgid "Social media icons."
+msgstr ""
+
+#: themes/global/widget-button.php:58
+msgid "Solid"
+msgstr ""
+
+#: themes/global/widget-button.php:59
+msgid "Solid Light"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:54
+#: themes/global-vcard/widget-social-media-icon.php:44
+msgid "SoundCloud"
+msgstr ""
+
+#: themes/global-vcard/widget-social-media-icon.php:45
+msgid "Spotify"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:101
+#: themes/efor/widget-main-slider.php:101
+#: themes/episody/widget-main-slider.php:101
+#: themes/foodsy/widget-main-slider.php:101
+#: themes/global/widget-link-box.php:69
+#: themes/lahanna/widget-main-slider.php:101 themes/life/widget-link-box.php:62
+#: themes/life/widget-main-slider.php:71
+msgid "Square"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:62
+#: themes/global-vcard/widget-social-media-icon.php:53
+msgid "Stack Overflow"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:120
+#: themes/efor/widget-main-slider.php:120
+#: themes/episody/widget-main-slider.php:120
+#: themes/foodsy/widget-main-slider.php:120
+#: themes/lahanna/widget-main-slider.php:120
+msgid "Stack Scale"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:121
+#: themes/efor/widget-main-slider.php:121
+#: themes/episody/widget-main-slider.php:121
+#: themes/foodsy/widget-main-slider.php:121
+#: themes/lahanna/widget-main-slider.php:121
+msgid "Stack Zoom"
+msgstr ""
+
+#: themes/ucard/meta-box-portfolio-details.php:15
+msgid "Standard"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:56
+#: themes/efor/widget-main-slider.php:56
+#: themes/episody/widget-main-slider.php:56
+#: themes/foodsy/widget-main-slider.php:56
+#: themes/lahanna/widget-main-slider.php:56
+#: themes/life/widget-main-slider.php:38
+msgid "Sticky posts"
+msgstr ""
+
+#: themes/global/widget-about-me.php:51 themes/global/widget-button.php:53
+#: themes/life/widget-about-me.php:47
+msgid "Style"
+msgstr ""
+
+#: themes/global-vcard/widget-contact-form.php:30
+msgid "Subject"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:131
+#: themes/efor/widget-main-slider.php:131
+#: themes/episody/widget-main-slider.php:131
+#: themes/foodsy/widget-main-slider.php:131
+#: themes/lahanna/widget-main-slider.php:131
+msgid "Swing"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:134
+#: themes/efor/widget-main-slider.php:134
+#: themes/episody/widget-main-slider.php:134
+#: themes/foodsy/widget-main-slider.php:134
+#: themes/lahanna/widget-main-slider.php:134
+msgid "Swing Horizontal"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:135
+#: themes/efor/widget-main-slider.php:135
+#: themes/episody/widget-main-slider.php:135
+#: themes/foodsy/widget-main-slider.php:135
+#: themes/lahanna/widget-main-slider.php:135
+msgid "Swing Horizontal Big"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:132
+#: themes/efor/widget-main-slider.php:132
+#: themes/episody/widget-main-slider.php:132
+#: themes/foodsy/widget-main-slider.php:132
+#: themes/lahanna/widget-main-slider.php:132
+msgid "Swing Vertical"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:133
+#: themes/efor/widget-main-slider.php:133
+#: themes/episody/widget-main-slider.php:133
+#: themes/foodsy/widget-main-slider.php:133
+#: themes/lahanna/widget-main-slider.php:133
+msgid "Swing Vertical Big"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:102
+#: themes/efor/widget-main-slider.php:102
+#: themes/episody/widget-main-slider.php:102
+#: themes/foodsy/widget-main-slider.php:102
+#: themes/global/widget-link-box.php:70
+#: themes/lahanna/widget-main-slider.php:102 themes/life/widget-link-box.php:63
+msgid "Tall"
+msgstr ""
+
+#: themes/ikonik/widget-testimonial.php:11
+#: themes/unrovr/widget-testimonial.php:11
+msgid "Testimonial module."
+msgstr ""
+
+#: themes/global/widget-button.php:34 themes/global-vcard/widget-button.php:26
+msgid "Text"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:39
+msgid "TikTok"
+msgstr ""
+
+#: themes/global-vcard/widget-timeline-event.php:11
+msgid "Timeline event module."
+msgstr ""
+
+#: themes/global-vcard/widget-timeline-title.php:11
+msgid "Timeline title with icon."
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:43
+#: themes/efor/widget-main-slider.php:43
+#: themes/episody/widget-main-slider.php:43
+#: themes/foodsy/widget-main-slider.php:43 themes/global/widget-about-me.php:27
+#: themes/global/widget-animated-search.php:23
+#: themes/global/widget-button.php:30 themes/global/widget-icon-box.php:30
+#: themes/global/widget-intro.php:32 themes/global/widget-link-box.php:28
+#: themes/global/widget-social-media-icon.php:26
+#: themes/global-vcard/widget-fun-fact.php:24
+#: themes/global-vcard/widget-process.php:24
+#: themes/global-vcard/widget-progress-bar.php:23
+#: themes/global-vcard/widget-section-title.php:23
+#: themes/global-vcard/widget-service.php:25
+#: themes/global-vcard/widget-timeline-title.php:23
+#: themes/lahanna/widget-main-slider.php:43 themes/life/widget-about-me.php:22
+#: themes/life/widget-intro.php:27 themes/life/widget-link-box.php:23
+#: themes/life/widget-main-slider.php:29
+#: themes/life/widget-social-media-feed.php:21
+#: themes/life/widget-social-media-icon.php:21
+msgid "Title"
+msgstr ""
+
+#: themes/global/meta-box-post-style.php:42
+msgid "Title Full"
+msgstr ""
+
+#: themes/global/meta-box-title-visibility.php:70
+msgid "Title Visibility"
+msgstr ""
+
+#: themes/global-vcard/widget-contact-form.php:23
+msgid "To"
+msgstr ""
+
+#: themes/global/meta-box-gallery-type.php:31
+msgid ""
+"To show gallery images in a lightbox, select \"Grid\" type then edit your "
+"gallery in content and choose \"Link To: Media File\" from gallery settings."
+msgstr ""
+
+#: themes/global/widget-icon-box.php:65
+#: themes/global-vcard/meta-box-portfolio-details.php:19
+msgid "Top"
+msgstr ""
+
+#: themes/global/meta-box-post-header-style.php:31
+msgid "Transparent"
+msgstr ""
+
+#: themes/global/meta-box-post-header-style.php:35
+msgid "Transparent Light"
+msgstr ""
+
+#: themes/global/meta-box-post-header-style.php:36
+msgid "Transparent Light Margin"
+msgstr ""
+
+#: themes/global/meta-box-post-header-style.php:32
+msgid "Transparent Margin"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:57
+#: themes/global-vcard/widget-social-media-icon.php:48
+msgid "Tumblr"
+msgstr ""
+
+#: themes/global/share-links-2.php:22 themes/global/share-links.php:22
+msgid "Tweet this post to your followers"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:52
+msgid "Twitch"
+msgstr ""
+
+#: themes/global/share-links-2.php:89 themes/global/share-links.php:89
+#: themes/global/widget-social-media-icon.php:35
+#: themes/global-vcard/widget-social-media-icon.php:31
+msgid "Twitter"
+msgstr ""
+
+#: themes/global/widget-button.php:45
+#: themes/ucard/meta-box-portfolio-details.php:10
+msgid "Type"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:105
+#: themes/efor/widget-main-slider.php:105
+#: themes/episody/widget-main-slider.php:105
+#: themes/foodsy/widget-main-slider.php:105
+#: themes/lahanna/widget-main-slider.php:105
+#: themes/life/widget-main-slider.php:74
+msgid "Ultra Wide"
+msgstr ""
+
+#: themes/global/widget-button.php:57
+msgid "Underline"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:41
+msgid "Unsplash"
+msgstr ""
+
+#: themes/global/meta-box-featured-media.php:13
+#: themes/global/widget-button.php:38 themes/global/widget-icon-box.php:52
+#: themes/global/widget-social-media-icon.php:81
+#: themes/global-vcard/meta-box-featured-media.php:19
+#: themes/global-vcard/widget-button.php:31
+#: themes/global-vcard/widget-social-media-icon.php:67
+#: themes/life/meta-box-featured-media.php:11
+#: themes/life/widget-social-media-icon.php:66
+#: themes/ucard/meta-box-portfolio-details.php:31
+msgid "URL"
+msgstr ""
+
+#: themes/global-vcard/widget-timeline-event.php:38
+msgid "Use [br] for line breaks."
+msgstr ""
+
+#: themes/global/meta-box-featured-media.php:34
+msgid "Use this URL field for Audio, Video and Link formats."
+msgstr ""
+
+#: themes/life/meta-box-featured-media.php:37
+msgid "Use this URL field for format; Link, Audio and Video."
+msgstr ""
+
+#: themes/global-vcard/meta-box-featured-media.php:15
+msgid ""
+"Use this URL field for Video, Audio and Link formats. Select post format "
+"from Summary section."
+msgstr ""
+
+#: themes/global-vcard/widget-contact-form.php:27
+msgid "Use your email address to recieve contact form messages."
+msgstr ""
+
+#: themes/life/widget-social-media-feed.php:26
+msgid "User"
+msgstr ""
+
+#: themes/global/meta-box-featured-media.php:58
+#: themes/life/meta-box-featured-media.php:31
+msgid ""
+"Video: Just paste the browser address url of a video from YouTube or Vimeo. "
+"This video will be shown in place of featured image."
+msgstr ""
+
+#: themes/global/meta-box-featured-media.php:49
+#: themes/global-vcard/meta-box-featured-media.php:37
+msgid ""
+"Video: Use browser address url of a video from YouTube or Vimeo. This video "
+"will be shown in a lightbox in your portfolio page."
+msgstr ""
+
+#: themes/global/widget-button.php:88 themes/global-vcard/widget-button.php:58
+#: themes/global-vcard/widget-timeline-title.php:36
+#: themes/unrovr/widget-homepage-menu-item.php:61
+msgid "View available icons"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:481
+#: themes/efor/widget-main-slider.php:481
+#: themes/episody/widget-main-slider.php:481
+#: themes/foodsy/widget-main-slider.php:481 themes/global/related-posts.php:91
+#: themes/lahanna/widget-main-slider.php:481
+#: themes/life/widget-main-slider.php:283
+msgid "View Post"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:53
+#: themes/global-vcard/widget-social-media-icon.php:43
+msgid "Vimeo"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:69
+#: themes/global-vcard/widget-social-media-icon.php:59
+msgid "Vine"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:271
+#: themes/efor/widget-main-slider.php:271
+#: themes/episody/widget-main-slider.php:271
+#: themes/foodsy/widget-main-slider.php:271
+#: themes/lahanna/widget-main-slider.php:271
+msgid "Visible"
+msgstr ""
+
+#: themes/unrovr/widget-map.php:77
+msgid ""
+"Visit Google Maps online and find your location on the map then fill the "
+"inputs above."
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:67
+#: themes/global-vcard/widget-social-media-icon.php:58
+msgid "VKontakte"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:65
+#: themes/global-vcard/widget-social-media-icon.php:56
+msgid "Weibo"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:38
+msgid "WhatsApp"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:103
+#: themes/efor/widget-main-slider.php:103
+#: themes/episody/widget-main-slider.php:103
+#: themes/foodsy/widget-main-slider.php:103
+#: themes/global/widget-link-box.php:71
+#: themes/lahanna/widget-main-slider.php:103 themes/life/widget-link-box.php:64
+#: themes/life/widget-main-slider.php:72
+msgid "Wide"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:85
+#: themes/efor/widget-main-slider.php:85
+#: themes/episody/widget-main-slider.php:85
+#: themes/foodsy/widget-main-slider.php:85 themes/global/widget-link-box.php:56
+#: themes/lahanna/widget-main-slider.php:85 themes/life/widget-link-box.php:50
+#: themes/life/widget-main-slider.php:59
+msgid "Width"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:56
+#: themes/global-vcard/widget-social-media-icon.php:47
+msgid "WordPress"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:64
+#: themes/global-vcard/widget-social-media-icon.php:55
+msgid "Xing"
+msgstr ""
+
+#: themes/global/widget-icon-box.php:80
+msgid "XL"
+msgstr ""
+
+#: themes/global/widget-icon-box.php:76
+msgid "XS"
+msgstr ""
+
+#: themes/global/widget-icon-box.php:81
+msgid "XXL"
+msgstr ""
+
+#: themes/global/widget-icon-box.php:75
+msgid "XXS"
+msgstr ""
+
+#: themes/global/widget-icon-box.php:82
+msgid "XXXL"
+msgstr ""
+
+#: themes/global/widget-icon-box.php:74
+msgid "XXXS"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:76
+msgid "Yelp"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:185
+#: themes/consultify/widget-main-slider.php:195
+#: themes/consultify/widget-main-slider.php:206
+#: themes/consultify/widget-main-slider.php:218
+#: themes/consultify/widget-main-slider.php:238
+#: themes/consultify/widget-main-slider.php:248
+#: themes/consultify/widget-main-slider.php:259
+#: themes/efor/widget-main-slider.php:185
+#: themes/efor/widget-main-slider.php:195
+#: themes/efor/widget-main-slider.php:206
+#: themes/efor/widget-main-slider.php:218
+#: themes/efor/widget-main-slider.php:238
+#: themes/efor/widget-main-slider.php:248
+#: themes/efor/widget-main-slider.php:259
+#: themes/episody/widget-main-slider.php:185
+#: themes/episody/widget-main-slider.php:195
+#: themes/episody/widget-main-slider.php:206
+#: themes/episody/widget-main-slider.php:218
+#: themes/episody/widget-main-slider.php:238
+#: themes/episody/widget-main-slider.php:248
+#: themes/episody/widget-main-slider.php:259
+#: themes/foodsy/widget-main-slider.php:185
+#: themes/foodsy/widget-main-slider.php:195
+#: themes/foodsy/widget-main-slider.php:206
+#: themes/foodsy/widget-main-slider.php:218
+#: themes/foodsy/widget-main-slider.php:238
+#: themes/foodsy/widget-main-slider.php:248
+#: themes/foodsy/widget-main-slider.php:259 themes/global/widget-intro.php:87
+#: themes/global/widget-link-box.php:42
+#: themes/global/widget-social-media-icon.php:89
+#: themes/lahanna/widget-main-slider.php:185
+#: themes/lahanna/widget-main-slider.php:195
+#: themes/lahanna/widget-main-slider.php:206
+#: themes/lahanna/widget-main-slider.php:218
+#: themes/lahanna/widget-main-slider.php:238
+#: themes/lahanna/widget-main-slider.php:248
+#: themes/lahanna/widget-main-slider.php:259 themes/life/widget-intro.php:89
+#: themes/life/widget-link-box.php:46 themes/life/widget-main-slider.php:93
+#: themes/life/widget-main-slider.php:100
+#: themes/life/widget-main-slider.php:108
+#: themes/life/widget-main-slider.php:117
+#: themes/life/widget-social-media-icon.php:73
+msgid "Yes"
+msgstr ""
+
+#: themes/global/widget-button.php:93
+msgid ""
+"You can customize button colors and fonts from Customizer > General > "
+"Buttons section."
+msgstr ""
+
+#: themes/global/widget-icon-box.php:95
+msgid ""
+"You can customize typography from Customizer > Header > Icon Box section."
+msgstr ""
+
+#: themes/global-vcard/widget-contact-form.php:38
+msgid "You can see sender's name and email address in Reply info."
+msgstr ""
+
+#: themes/global/related-posts.php:9 themes/global/related-posts.php:69
+msgid "You May Also Like"
+msgstr ""
+
+#: themes/global/widget-social-media-icon.php:51
+#: themes/global-vcard/widget-social-media-icon.php:42
+msgid "YouTube"
+msgstr ""
+
+#: themes/life/widget-intro.php:55
+msgid "YouTube, Vimeo embed code."
+msgstr ""
+
+#: themes/life/widget-intro.php:68
+msgid "YouTube, Vimeo page url."
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:141
+#: themes/efor/widget-main-slider.php:141
+#: themes/episody/widget-main-slider.php:141
+#: themes/foodsy/widget-main-slider.php:141
+#: themes/lahanna/widget-main-slider.php:141 themes/unrovr/widget-map.php:36
+msgid "Zoom"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:142
+#: themes/efor/widget-main-slider.php:142
+#: themes/episody/widget-main-slider.php:142
+#: themes/foodsy/widget-main-slider.php:142
+#: themes/lahanna/widget-main-slider.php:142
+msgid "Zoom Horizontal"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:143
+#: themes/efor/widget-main-slider.php:143
+#: themes/episody/widget-main-slider.php:143
+#: themes/foodsy/widget-main-slider.php:143
+#: themes/lahanna/widget-main-slider.php:143
+msgid "Zoom Horizontal Big"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:146
+#: themes/efor/widget-main-slider.php:146
+#: themes/episody/widget-main-slider.php:146
+#: themes/foodsy/widget-main-slider.php:146
+#: themes/lahanna/widget-main-slider.php:146
+msgid "Zoom In Down"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:144
+#: themes/efor/widget-main-slider.php:144
+#: themes/episody/widget-main-slider.php:144
+#: themes/foodsy/widget-main-slider.php:144
+#: themes/lahanna/widget-main-slider.php:144
+msgid "Zoom Vertical"
+msgstr ""
+
+#: themes/consultify/widget-main-slider.php:145
+#: themes/efor/widget-main-slider.php:145
+#: themes/episody/widget-main-slider.php:145
+#: themes/foodsy/widget-main-slider.php:145
+#: themes/lahanna/widget-main-slider.php:145
+msgid "Zoom Vertical Big"
+msgstr ""

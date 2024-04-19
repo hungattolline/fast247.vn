@@ -1,0 +1,17 @@
+
+
+body.post-type-portfolio #editor .edit-post-sidebar .editor-post-format select option[value=aside],
+body.post-type-portfolio #editor .edit-post-sidebar .editor-post-format select option[value=quote],
+body.post-type-portfolio #editor .edit-post-sidebar .editor-post-format select option[value=status],
+body.post-type-portfolio #editor .edit-post-sidebar .editor-post-format select option[value=chat] {
+	display: none;
+}
+
+
+body.post-type-portfolio #posts-filter select#filter-by-format option[value=aside],
+body.post-type-portfolio #posts-filter select#filter-by-format option[value=quote],
+body.post-type-portfolio #posts-filter select#filter-by-format option[value=status],
+body.post-type-portfolio #posts-filter select#filter-by-format option[value=chat] {
+	display: none;
+}
+

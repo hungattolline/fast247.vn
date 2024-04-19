@@ -1,0 +1,44 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+ul li {
+	list-style: none!important;
+}
+
+html, body {
+	font-family: 'Inter Tight', sans-serif !important;
+}
+
+* {
+	font-family: 'Inter Tight', sans-serif !important;
+}
+
+i {
+	font-family: 'Font Awesome 5 Free' !important;
+}
+
+.nav-menu li.current-menu-item > a .link-text:before {
+	background: linear-gradient(90deg, rgb(244, 136, 44) 0%, 25.2525%, rgb(250, 114, 64) 50.5051%, 75.2525%, rgb(249, 112, 68) 100%) !important;
+}
+
+h2.elementor-heading-title.elementor-size-default {
+	background: linear-gradient(90deg, rgb(244, 136, 44) 0%, 25.2525%, rgb(250, 114, 64) 50.5051%, 75.2525%, rgb(249, 112, 68) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+	line-height: 3rem
+}
+</style>
+<!-- end Simple Custom CSS and JS -->
